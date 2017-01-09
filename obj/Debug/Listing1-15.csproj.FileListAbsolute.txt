@@ -1,0 +1,5 @@
+C:\Sandbox\Learning\ExamRef70-483\Listing1-15\Listing1-15\bin\Debug\Listing1-15.exe.config
+C:\Sandbox\Learning\ExamRef70-483\Listing1-15\Listing1-15\bin\Debug\Listing1-15.exe
+C:\Sandbox\Learning\ExamRef70-483\Listing1-15\Listing1-15\bin\Debug\Listing1-15.pdb
+C:\Sandbox\Learning\ExamRef70-483\Listing1-15\Listing1-15\obj\Debug\Listing1-15.exe
+C:\Sandbox\Learning\ExamRef70-483\Listing1-15\Listing1-15\obj\Debug\Listing1-15.pdb
